@@ -26,7 +26,7 @@ I am a programming enthusiast who is always looking for and creating new things 
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/wervlad)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
 
-## Other Technology
+## 💻Other Technology
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) 
@@ -37,7 +37,7 @@ I am a programming enthusiast who is always looking for and creating new things 
 
 ![perk-bevis GitHub stats](https://github-readme-stats.vercel.app/api?username=perk-bevis&show_icons=true&theme=radical)
 
-## Activities:
+## 🔥Activities:
 
 <table style="width:100%;">
   <tr>
@@ -53,7 +53,7 @@ I am a programming enthusiast who is always looking for and creating new things 
   </tr>
 </table>
 
-## Project
+## 🔴Project
 <a href="https://github.com/perk-bevis/web__shoppe">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=perk-bevis&repo=web__shoppe&theme=radical" />
