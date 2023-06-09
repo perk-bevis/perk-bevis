@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=perk-bevis&style=flat-square" alt="kimjayden" /> </p>
+
 ### WELCOME TO MY PAGE 👋👋👋
 I am a programming enthusiast who is always looking for and creating new things and at the same time constantly learning more code to get better.
 ## 📫 How to reach me: 
