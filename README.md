@@ -40,7 +40,7 @@ I am a programming enthusiast who is always looking for and creating new things 
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perk-bevis&show_icons=true&locale=en&layout=compact" alt="perk-bevis" width="100%"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=perk-&theme=transparent&mode=weekly" width="100%"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=perk-bevis&theme=transparent&mode=weekly" width="100%"/>
     </td>
     <td>
       <p align="center"> 
