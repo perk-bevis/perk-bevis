@@ -40,7 +40,7 @@ I am a programming enthusiast who is always looking for and creating new things 
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perk-bevis&show_icons=true&locale=en&layout=compact" alt="perk-bevis" width="100%"/>
-     <img src="https://github-readme-stats.vercel.app/api?username=perk-bevis&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Activity" alt="perk-bevis" width="100%"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=perk-&theme=transparent&mode=weekly" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -72,3 +72,4 @@ I am a programming enthusiast who is always looking for and creating new things 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=perk-bevis&repo=phone-sshop&theme=onedark" />
 </a> 
+
