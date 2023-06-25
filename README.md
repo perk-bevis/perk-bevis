@@ -72,4 +72,7 @@ I am a programming enthusiast who is always looking for and creating new things 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=perk-bevis&repo=phone-sshop&theme=onedark" />
 </a> 
-
+<a href="https://github.com/perk-bevis/example_code">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=perk-bevis&repo=example_code&theme=synthwave" />
+</a>   
