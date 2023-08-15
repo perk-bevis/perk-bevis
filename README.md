@@ -10,10 +10,10 @@ I am a programming enthusiast who is always looking for and creating new things 
     <a href="https://twitter.com/coder2k4">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" height="25px">
     </a>
-    <a href="https://www.instagram.com/doanle.2004/">
+    <a href="https://www.instagram.com/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="25px">
     </a>
-    <a href="https://www.youtube.com/@BIBICODER">
+    <a href="https://www.youtube.com/">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" height="25px">
     </a>
 </p> 
