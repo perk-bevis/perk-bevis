@@ -10,7 +10,7 @@ I am a programming enthusiast who is always looking for and creating new things 
     <a href="https://twitter.com/coder2k4">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" height="25px">
     </a>
-    <a href="https://www.instagram.com/">
+    <a href="https://instagram.com/perkbevis2k4?igshid=OGQ5ZDc2ODk2ZA==">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="25px">
     </a>
     <a href="https://youtube.com/@BIBICODER?si=eegYE631FoGz_mPe">
