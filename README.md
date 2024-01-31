@@ -44,7 +44,7 @@ I am a programming enthusiast who is always looking for and creating new things 
     </td>
     <td>
       <p align="center"> 
-        <img src="https://camo.githubusercontent.com/9526ac819693841b42fbc4af532833c8f745bf208eb483037b8b633ef5f3beef/68747470733a2f2f692e696d6775722e636f6d2f4c6d5876784e312e676966" alt="dev" width="800px"/>
+        <img src="https://openseauserdata.com/files/7d5d665f92c09858439458678bc879a4.gif" width="140px"/>
       </p>
     </td>
   </tr>
