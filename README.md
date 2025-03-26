@@ -1,10 +1,10 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=perk-bevis&style=flat-square" alt="kimjayden" /> </p>
+⁹<p align="right"> <img src="https://komarev.com/ghpvc/?username=perk-bevis&style=flat-square" alt="kimjayden" /> </p>
 
 ### WELCOME TO MY PAGE 👋👋👋
 I am a programming enthusiast who is always looking for and creating new things and at the same time constantly learning more code to get better.
 ## 📫 How to reach me: 
 <p>
-    <a href="https://www.facebook.com/profile.php?id=100091641744154&mibextid=ZbWKwL">
+    <a href="">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="25px">
     </a>
     <a href="https://twitter.com/coder2k4">
