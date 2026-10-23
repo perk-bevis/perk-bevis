@@ -44,19 +44,8 @@ I am a programming enthusiast who is always looking for and creating new things 
     </td>
     <td>
       <p align="center"> 
-        <img src="https://openseauserdata.com/files/7d5d665f92c09858439458678bc879a4.gif" width="140px"/>
+        <img src="[https://kenh14.vn/day-la-5-con-meo-noi-tieng-nhat-trong-lich-su-internet-nhan-loai-20171120170455281.chn](https://kenh14cdn.com/2017/photo-1-1511168949786.gif)" width="1000px"/>
       </p>
     </td>
   </tr>
 </table>
-
-## 🔴Project 
-<a href="https://github.com/perk-bevis/w3_band">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=perk-bevis&repo=w3_band&theme=merko" />
-</a>
-
-<a href="https://github.com/perk-bevis/example_code">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=perk-bevis&repo=example_code&theme=synthwave" />
-</a>   
