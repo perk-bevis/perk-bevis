@@ -1,51 +1,231 @@
-⁹<p align="right"> <img src="https://komarev.com/ghpvc/?username=perk-bevis&style=flat-square" alt="kimjayden" /> </p>
+<div align="center">
 
-### WELCOME TO MY PAGE 👋👋👋
-I am a programming enthusiast who is always looking for and creating new things and at the same time constantly learning more code to get better.
-## 📫 How to reach me: 
+# 👋 Hi, I'm Perk Bevis
+
+### 💻 Programming Enthusiast | Web Development | Cybersecurity | AI | Embedded | Game Development
+
+<img src="https://komarev.com/ghpvc/?username=perk-bevis&style=flat-square&color=blue" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
 <p>
-    <a href="https://www.facebook.com/">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="25px">
-    </a>
-    <a href="https://twitter.com/coder2k4">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" height="25px">
-    </a>
-    <a href="https://instagram.com/perkbevis2k4?igshid=OGQ5ZDc2ODk2ZA==">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="25px">
-    </a>
-    <a href="https://youtube.com/@BIBICODER?si=eegYE631FoGz_mPe">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" height="25px">
-    </a>
-</p> 
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-# 💻Tech Stack
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🌐 Web Development
 
-![perk-bevis GitHub stats](https://github-readme-stats.vercel.app/api?username=perk-bevis&show_icons=true&theme=radical)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
-## 🔥Activities:
+### 🤖 AI / Machine Learning
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perk-bevis&show_icons=true&locale=en&layout=compact" alt="perk-bevis" width="100%"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=perk-bevis&theme=transparent&mode=weekly" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="[https://kenh14.vn/day-la-5-con-meo-noi-tieng-nhat-trong-lich-su-internet-nhan-loai-20171120170455281.chn](https://kenh14cdn.com/2017/photo-1-1511168949786.gif)" width="1000px"/>
-      </p>
-    </td>
-  </tr>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+</p>
+
+### 🔐 Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Security-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### ⚙️ Embedded / Low-Level
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🎮 Game Development
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Passionate about **Software & Web Development**
+- 🔐 Interested in **Cybersecurity & System Security**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- ⚙️ Learning about **Embedded Systems & Low-Level Programming**
+- 🎮 Interested in **Game Development & Game Design**
+- 🚀 Always learning new technologies and building projects
+- 🌌 Interested in **Space Research & Technology**
+
+---
+
+## 📚 Areas of Interest
+
+- 🌐 **Web Development**
+- 🔐 **Cybersecurity**
+- 🤖 **Artificial Intelligence**
+- ⚙️ **Embedded Systems**
+- 🎮 **Game Development**
+- 🌌 **Space Technology & Research**
+
+---
+
+## 🚀 What I'm Building & Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+Building modern web applications with:
+
+- React
+- Next.js
+- JavaScript
+- Tailwind CSS
+- APIs
+- Full-Stack Architecture
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI
+
+Exploring:
+
+- Machine Learning
+- Hugging Face
+- PyTorch
+- Generative AI
+- AI-powered applications
+- LLM technologies
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+Learning about:
+
+- Linux
+- Networking
+- SQL
+- IAM
+- SIEM
+- Security fundamentals
+
+</td>
+
+<td width="50%">
+
+### 🎮 Game & Embedded
+
+Exploring:
+
+- C / C++
+- Game Programming
+- Game Design
+- Low-Level Programming
+- Embedded Systems
+
+</td>
+</tr>
 </table>
+
+---
+
+## 📌 Featured Projects
+
+### 🛍️ Clothing Store
+
+> A responsive e-commerce website built with React.js.
+
+**Tech:** React.js • CSS • Responsive Design
+
+---
+
+### 🎮 Gaming Website
+
+> A gaming-focused website built with modern frontend technologies.
+
+**Tech:** React • CSS Modules • Swiper
+
+---
+
+### 🎬 Movie Website
+
+> A movie browsing application with API integration and interactive UI.
+
+**Tech:** React • Tailwind CSS • React Router • REST API
+
+---
+
+### 📖 Yearbook Website
+
+> A digital yearbook project for storing and sharing memories.
+
+**Tech:** Next.js • React • Database • Full-Stack Development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=perk-bevis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perk-bevis&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=perk-bevis&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📫 How to reach me
+
+
+
+---
+
+<div align="center">
+
+### 💡 Learn • Build • Experiment • Share
+
+> "The best way to learn technology is to build with it."
+
+</div>
