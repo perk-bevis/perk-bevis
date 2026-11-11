@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Perk Bevis
+**I am a programming enthusiast who is always looking for and creating new things and at the same time constantly learning more code to get better.**
 
 ### 💻 Programming Enthusiast | Web Development | Cybersecurity | AI | Embedded | Game Development
 
@@ -219,16 +220,6 @@ Exploring:
 > A digital yearbook project for storing and sharing memories.
 
 **Tech:** Next.js • React • Database • Full-Stack Development
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perk-bevis&layout=normal&langs_count=15&theme=default" />
-
-</div>
 
 ---
 
